@@ -16,6 +16,6 @@ public class HelloWorld
         System.out.println(s);
         System.out.println("ssssssss".length());  //in quotes, it auto creates a string object, without having to declare it.
 
-   
+
     }
 }
